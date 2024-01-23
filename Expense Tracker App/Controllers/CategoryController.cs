@@ -7,7 +7,7 @@ namespace Expense_Tracker_App.Controllers
         public IActionResult Index()
         {
             return View();
-            //learning 
+            
         }
     }
 }
